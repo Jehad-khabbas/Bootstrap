@@ -1,0 +1,23 @@
+.custom-navbar {
+    background: linear-gradient(90deg, #1e3c72, #2a5298);
+    padding: 15px;
+}
+
+.custom-navbar .navbar-brand {
+    color: #ffd700;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.custom-navbar .nav-link {
+    color: #ffffff;
+    font-weight: 500;
+    margin-right: 15px;
+    transition: all 0.3s ease;
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ffd700;
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 8px;
+}
